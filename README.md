@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there , I’m Anton Reda
 
-<!--
-**anton-reda/anton-reda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Scientist** passionate about turning data into actionable insights, building predictive models, and solving real-world problems using machine learning and statistics.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages    
+Python •  SQL • C++ 
+
+### Data Science & Analytics
+Pandas • NumPy • Matplotlib • Scikit-learn • Seaborn
+
+### Tools & Technologies
+ Git / GitHub • Jupyter Notebooks / Google Colab
+
+---
+  <h2>Get In Touch</h2>
+            <div class="links">
+                - <a href="https://www.linkedin.com/in/anton-reda-zaki/" target="_blank">LinkedIn</a>
+                <br>
+               - <a href="mailto:antonreda418@gmail.com" target="_blank">Email</a>
+            </div>
